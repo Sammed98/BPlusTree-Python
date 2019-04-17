@@ -1,2 +1,2 @@
 # BPlusTree - Python
-Insert, detele and search funtions are implemented. 
+Insert, delete and search funtions are implemented. 
